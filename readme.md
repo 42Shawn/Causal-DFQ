@@ -1,1 +1,1 @@
-**Open-sourced code will be released soon.**
+**This is the official implementation of Causal-DFQ: Causality Guided Data-free Network Quantization (Yuzhang Shang, Bingxin Xu, Gaowen Liu, Ramana Kompella, and Yan Yan), which has been accepted to ICCV 2023. Open-sourced code will be released soon.** 
